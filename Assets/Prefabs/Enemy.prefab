@@ -68,6 +68,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9eb3ed3379197754b9df8df85ff33552, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyFragments: {fileID: 954587347214254015, guid: 05c42c019dba1ee40aa41a6a6ec75d1c, type: 3}
   timer: 0
   newTargetTime: 1
   speed: 0.1

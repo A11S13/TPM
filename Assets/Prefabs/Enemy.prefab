@@ -69,12 +69,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyFragments: {fileID: 954587347214254015, guid: 05c42c019dba1ee40aa41a6a6ec75d1c, type: 3}
+  player: {fileID: 0}
   timer: 0
   newTargetTime: 1
   speed: 0.1
   randomDistance: 100
   nav: {fileID: 0}
   target: {x: 0, y: 0, z: 0}
+  visionDistance: 15
 --- !u!65 &4691538898471165213
 BoxCollider:
   m_ObjectHideFlags: 0
